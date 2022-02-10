@@ -5,4 +5,9 @@ this is the fourth message of this file, -k
 this is the 5th message of this file, -d
 this is the 6th message of this file, -d
 
-test test testsdfsd
+<<<<<<< HEAD
+test test testsdfsdsds
+=======
+test test test
+the first n1 branch modification!! -k
+>>>>>>> da047f8b89f28c768d11cdfd97789d9c6a6cc380
